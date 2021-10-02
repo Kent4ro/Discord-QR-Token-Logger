@@ -36,4 +36,4 @@ if Chrome crashes,
 
 ## Any Extra Help!
 
-Join the Support Discord Server: https://discord.gg/a24Sp9bEXu 
+Join the Support Discord Server: https://discord.gg/uzvf52A3mk
